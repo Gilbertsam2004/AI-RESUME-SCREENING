@@ -27,19 +27,4 @@
   ```
 - `Uploaded_Resumes` folder is contaning the user's uploaded resumes.
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-- Admin side credentials is `machine_learning_hub` and password is `mlhub123`. 
-
-## Screenshots
-
-## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
-
-## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
-
-
-## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
+- Admin side credentials is `TECH CREEPERS` and password is `Tech 123`. 
