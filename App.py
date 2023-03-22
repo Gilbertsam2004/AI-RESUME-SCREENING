@@ -90,7 +90,6 @@ def run():
     st.sidebar.markdown("# Choose User")
     activities = ["Normal User", "Admin"]
     choice = st.sidebar.selectbox("Choose among the given options:", activities)
-    # link = '[©Developed by Spidy20](http://github.com/spidy20)'
     # st.sidebar.markdown(link, unsafe_allow_html=True)
     img = Image.open('./Logo/SRA_Logo.jpg')
     img = img.resize((250,250))
